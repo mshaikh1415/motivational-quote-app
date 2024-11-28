@@ -15,7 +15,7 @@ variables:
   webAppName: 'MinazSangeethaWebApp'
 
   # Environment name
-  environmentName: ''
+  environmentName: 'ShaikhEnv'
 
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
